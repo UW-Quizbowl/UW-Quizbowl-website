@@ -63,6 +63,9 @@ body {
 #wrapper1 {
   padding: 100px 200px 150px 200px;
 }
+li {
+  margin: 0.9em 0;
+}
 
 #footer {
   font-size: 50%;
